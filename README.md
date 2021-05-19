@@ -2,6 +2,10 @@
 
 This is a Discord bot designed for the [API](https://github.com/mattantonelli/ffxiv-collect/wiki) provided by my Final Fantasy XIV collectable tracking site [FFXIV Collect](https://ffxivcollect.com/). Powered by [discordrb](https://github.com/shardlab/discordrb).
 
+## Notice
+
+The functionality of this bot has been migrated to Discord slash commands. You can add them to your server [here](https://ffxivcollect.com/commands).
+
 ## Installation
 
 This is currently a private bot. You will need to create and run your own Discord app to add it to your server.
